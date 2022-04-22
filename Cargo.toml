@@ -4,7 +4,6 @@ version = "0.1.0"
 edition = "2021"
 
 license = "ISC"
-license-file = "LICENSE"
 repository = "https://github.com/madmo/proc-cmdline"
 
 [dependencies]
